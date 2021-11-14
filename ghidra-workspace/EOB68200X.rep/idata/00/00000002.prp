@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FILE_INFO>
+    <BASIC_INFO>
+        <STATE NAME="CONTENT_TYPE" TYPE="string" VALUE="Program" />
+        <STATE NAME="PARENT" TYPE="string" VALUE="/" />
+        <STATE NAME="FILE_ID" TYPE="string" VALUE="c0a815cf18529640968303400" />
+        <STATE NAME="FILE_TYPE" TYPE="int" VALUE="0" />
+        <STATE NAME="READ_ONLY" TYPE="boolean" VALUE="false" />
+        <STATE NAME="NAME" TYPE="string" VALUE="20211023-VSI-EOB68200X_Flash_Memory_Dump_0x0000_0xFFFF_USBDM.s19" />
+    </BASIC_INFO>
+</FILE_INFO>
