@@ -1,0 +1,7 @@
+Record=TopLevelDocument|FileName=Top.SchDoc
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=BI|SchDesignator=BI|FileName=BI3_Connector.SchDoc|SymbolType=Normal|RawFileName=BI3_Connector.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=BI5_BS01|SchDesignator=BI5_BS01|FileName=BS01_and_BA01_Connectors.SchDoc|SymbolType=Normal|RawFileName=BS01_and_BA01_Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=KEY|SchDesignator=KEY|FileName=KeypadConnection.SchDoc|SymbolType=Normal|RawFileName=KeypadConnection.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=LCD|SchDesignator=LCD|FileName=LCD.SchDoc|SymbolType=Normal|RawFileName=LCD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=MCU|SchDesignator=MCU|FileName=MCU.SchDoc|SymbolType=Normal|RawFileName=MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=RTC|SchDesignator=RTC|FileName=RTC.SchDoc|SymbolType=Normal|RawFileName=RTC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
